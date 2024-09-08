@@ -1,5 +1,6 @@
 # petchyHotel
 This project dev by Phestsuwaphat Thongsuk (Bangkok University) - 2020 
+!! Use python language to create and use txt files as data base.
 #Description 
 This program Have 5 function 
 
